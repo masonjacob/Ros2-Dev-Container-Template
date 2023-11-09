@@ -9,5 +9,5 @@ docker compose up -d
 ```
 To attach to the live dev container, run the following command:
 ```
-docker exec --it <name-of-dev-container> bash
+docker compose exec -it dev bash
 ```
