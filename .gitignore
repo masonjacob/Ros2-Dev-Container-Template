@@ -2,4 +2,5 @@
 /install
 /log
 /cache
-
+.colcon
+**/__pycache__/
